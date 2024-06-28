@@ -47,11 +47,11 @@ Upon running the Jupyter Notebook, you will be able to see various visualization
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/The-Impacts-of-Working-Remotely-and-in-an-Office/blob/main/LICENSE.txt) file for details.
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/Mo-Zeini)
 
 ## Acknowledgements
 
