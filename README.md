@@ -1,59 +1,58 @@
-# The Impacts of Working Remotely and in an Office
+# The Impact of Working Remotely and in an Office
 
-# Abstract:
-Working from home nowadays, particularly after COVID-19 hit the world, became the preferable choice for many employees because it gives flexibility and saves more time, according to them. However, many studies revealed that working from home caused a negative effect on many employees’ mental and physical health, such as isolation and back pain. The careless and unplanned way of living while working remotely, such as lack of socialization and equipment for a healthy home office, is the cause for that negative effect. In this paper, we explore the reasons that lead to the negative impact of working remotely on mental and physical health and investigate whether employees are aware of the negative and the positive effects of working either from home or in an office. Our investigation involved a questionnaire handed to hundred employees and revealed that the majority of them were aware of the negative and the positive impacts of working remotely and in an office and suggest, therefore, a mixed-mode of working to obtain the best advantages of both modes.
-# Keywords:
-COVID-19; working from home; working in an office; questionnaire; advantages; disadvantages; negative impact; positive impact; mental health; physical health; work experience
+## Overview
 
-# 1.	Introduction
-Who would not like to wake up late and avoid the traffic every morning? I always had dreamed of that, and I guess you too. Working from home, which provides these advantages, has become the preferred choice for many employees and employers for the sake of getting more flexibility, increasing productivity, and saving time and money (Ipsen et al., 2021). I have noticed, especially during the COVID-19 pandemic, that many people switched willingly to work from home, expecting their life would totally improve. On the other hand, many people do not have the office work option. For instance, people work in the human resources, marketing, and customer service sectors (Iacurci, 2021). They work remotely until a hundred percent effective covid vaccine is developed. However, many studies, such as "Survey reveals the mental and physical health impacts of home working during Covid-19" by RSPH (2021), revealed that people who work from home are likely to suffer from mental and physical disorders. 
-In fact, the reason for the negative impact is not the work from home. Rather, it is the unmanaged lifestyle that comes with working from home. Of course, many other jobs still need people to be physically present, such as working in hospitals and beauty centers. However, Iacurci (2021) suggests that people will work remotely even after the pandemic finishes and the economy reopens. While many people are switching to work from home, and many others hoping so, it might be an opportunity for them to know the negative impact of working remotely, such as isolation and back pain, due to lack of socialization and equipment for a healthy home office. I am not willing to tell people what they should do in order to work healthily from home because this is not my study field. However, because I have experienced that negative impact, I will only give hints about the consequences, which could happen if they did not take care of themselves when working from home. Thus, this research investigated hundred people who have already worked before, regardless of gender identity, whether they are aware of the negative and the positive impacts of working from home in order to take care of themselves.
+This project explores the impacts of working remotely versus working in an office environment. It includes a detailed research study, data collected through a survey, and data analysis using Python. The research investigates various aspects such as productivity, mental health, physical health, and overall work experience.
 
-# 2.	Literature review
-Reviewing Worker's and Employees' Opinions in Working from Home
-Before the COVID-19 pandemic, people could choose between working from home and in an office. However, many people are forced or got the opportunity to work from home to reduce the number of new daily infections during the pandemic. Thus, it was an opportunity for researchers to do research on a large number of people to figure out how working from home experience affected them. Also, after the pandemic is over, what would they prefer if they could choose between working remotely or being physically in an office.
-In the study, "Six key advantages and disadvantages of working from home in Europe during COVID-19," Ipsen et al. (2021) investigated employees who have experience with working from home during the pandemic in 29 European countries. They used first the six key advantages and disadvantages approach, which involves the employees' opinions in working from home. Although the employees mentioned 16 disadvantages and 11 advantages, its results indicate that "the majority (55%) of employees were mostly positive about WFH" (p. 11). However, they assumed that maybe there are other circumstances that make the employees prefer working remotely over in an office. Hence, Ipsen et al. (2021) used the six factors approach, which involved the employees' lifestyle and characteristics. Its results also indicate that the majority of the employees preferred working remotely over in an office.
-Another study, "The impact of working from home during COVID-19 on work and life domains: an exploratory study on Hong Kong" by Vyas and Butakhieo (2021), indicates other findings. Vyas and Butakhieo (2021) stated that the employees in Hong Kong desired to work from home. However, after the COVID-19 pandemic, their study showed that the employees' opinions varied. Because the employees need time for mental relaxation and reducing the work stress, 80% "are suggesting a preference for a mixed-mode of working" (p. 69). However, another survey indicates that "68% of the workers missed going to the office and missed human interaction" (p. 69). The researchers illustrate the varying of the findings of the surveys is because some other factors are involving, such as family issues, looking after children, and difficulties in dealing with the new working from home situation, which revealed why Ipsen et al. (2021) involved in their study the characteristics of the employees.
-As a result, both research studies show various findings depending on the stages of the lookdown, the employees' circumstances, lifestyle, and job type. However, I should note that the research continues because the researchers found out that the opinions vary from time to time, and the future findings might vary from the findings at hand.
+## Features
 
-# 3.	Methods and materials
-This research paper required an investigation of people’s opinions regarding specific known impacts of working remotely and in an office. It also discussed the advantages and disadvantages of these work modes and, therefore, required people to respond to the questionnaire whether they were familiar with these impacts. In fact, I did not consider the participants’ gender identity because the effects of these work modes equally affect all genders. Also, I did not examine whether they experienced working from home because I needed to know whether the people who did not experience working from home were aware of the impacts and could take care of themselves when switching. Thus, quantitative is the ideal and most effective method for this research to collect the required data. It helps me measure their knowledge regarding the topic. Also, it helps me let the people who did not experience working from home participate in the questionnaire and express what they think about working from home and if they prefer to work remotely. Furthermore, it encourages the participants to participate in the questionnaire because it requires simple answers, which is easier for them.
-The questionnaire contained ten specific questions handed to hundred people and required simple answers as follows:
+- Comprehensive research study on remote and office work
+- Survey data collection and analysis
+- Data cleaning and preprocessing
+- Statistical analysis of survey data
+- Visualization of key findings
+- Insights and recommendations for improving remote work conditions
 
-First, yes and no questions:
--	Have you ever experienced working from home?
--	Do you think that working from home increases your work productivity?
--	Do you think that working from home prevents you from going out?
--	Do you think that working from home gives you more flexibility?
--	Do you think that working from home saves you more time?
--	Do you think that working from home prevents you from getting in contact with people?
-Second, the preferred work type, working from home or in an office, questions:
--	Which work type has the potential to cause you physical problems, such as the neck, back, and leg pain? 
--	Which work type has the potential to cause mental disorders, such as stress, anxiety, and depression?  
--	Which work type keeps you focused when working? 
-Finally, the most preferred work type question:
--	Which work type do you prefer the most?
-a.	Working from home
-b.	Working in an office
-c.	A mixed-mode of working
+## Requirements
 
-# 4.	Results
-Questionnaire results are as follows: 60% of the people, who have already worked before, have experienced working from home, and 40% did not. Concerning work productivity, 70% think that working from home increases their work productivity, and 30% do not. On the other hand, 60% of them suppose that working in an office keeps them focused while working. Of course, no one can deny that working from home gives us more flexibility. Thus, 100% of them agree on that. However, 60% think that working from home does not save them more time. Also, when it comes to going out and getting in contact with people, 70% of the participants think that working from home prevents them from practicing these activities. Regarding the physical and mental health impacts, 80% of them see that working from home could cause physical problems. Also, 70% think that working from home could cause mental disorders. Finally, 50% prefer a mixed-mode of working, 30% working in an office, and 20% working from home.
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
 
-# 5.	Discussion
-In fact, the results in certain respects are somewhat surprising. It revealed that most of them are familiar with the negative and positive impacts of working remotely and in an office even though some of the participants did not experience working from home, which was unexpected for me as follows: 
-First, although working from home gives them more flexibility, it does not keep them focused and save them more time. In fact, working from home should save them more time because it saves them the traveled time to their workplace and the unnecessary long meetings (Ipsen et al., 2021). However, this explains that working from home makes them, sometimes, procrastinate and do other things instead of working because they do not have regular working hours anymore. Hence, the flexibility that working from home gives them requires managing time effectively in order to stay focused and avoid wasting time (Anonymous, 2015). People who work from home are responsible for managing their time. However, the nature of people tends to keep them feel relaxed. Thus, this explains that most of them do not manage their time effectively, which is the main factor that prevents them from going out and getting in contact with people because they always feel busy. 
-Second, the majority demonstrate that working from home impacts their physical and mental health negatively. The reason for the negative effect on their mental health could also be ineffective time management. In other words, managing time ineffectively prevents them from contacting people, which results in loneliness, anxiety, and depression (RSPH, 202). Indeed, they do not get in contact with their colleagues or travel to their workplace. However, that does not prevent them from going out and getting in touch with their friends and families. As mentioned before, they will always feel busy because they do not manage their time effectively. Hence, they won’t find time for themselves and may feel isolated, depressed, stressed, and lonely. On the other side, the negative impact on their physical health is because they do not have the well-prepared equipment in their homes like in the office. Many people who work from home cannot afford to create an appropriate and healthy home office because good equipment is costly (Ipsen et al., 2021). Thus, most of them suffer from neck, back, and leg pain after a few months of working from home.
-In the end, these results explain why they prefer a mixed-mode of working and working in an office over working from home. To illustrate, they know that they cannot manage their time effectively while working from home, and they cannot afford equipment for a healthy home office. Therefore, they prefer to go and work in an office, even for a part-time job, to force themselves to change their bad habits. However, we do not know whether a mixed-mode of working is the ideal work mode yet for the following reasons: First, we do not know how many hours they should be at the workplace, and whether they can manage their time effectively in the working from home hours. Also, whether their physical health also will be negatively affected in these few hours. Finally, whether the mixed-mode of working increases productivity and keeps them focused and relaxed while working.
+## Usage
 
-# 6.	Conclusion
-We all need a better life full of productivity, health, and happens. If we drop one of these, we will struggle in our lives. The main reason for this research is that I am concerned about people and want to help them avoid the unpleasant lifestyle I experienced while working from home. In fact, it does not matter which work type is better than the other as long as we take care of ourselves. Hence, I had to investigate whether people who worked before were aware of the negative and the positive impacts of home and office work and hoped they got the chance to know the negative effect of the unplanned way of living while working remotely. Actually, I am satisfied with the results of the investigation. However, I should note that the key to good mental health is managing time effectively. If we manage our time effectively, we will determine which time we are most focused, find time to meet friends and go out, and increase productivity. Also, we should create a healthy home office if we have to work from home. If necessary, we can ask doctors for advice for avoiding physical problems while working remotely. In the end, the research is in progress to investigate whether a mixed-mode of working is the most effective mode of working, which should provide the best advantages of working remotely and in an office.
+1. **Run the Jupyter Notebook**:
+    ```bash
+    jupyter notebook "Data Analysis and Visualization.ipynb"
+    ```
 
-# 7.	References
-Anonymous. (2015). College success. Minnesota Libraries Publishing. http://open.lib.umn.edu/collegesuccess/.
-Iacurci, G. (2021, August 26). Pandemic pushes search for remote jobs up 460%. CNBC. Retrieved from https://www.cnbc.com/2021/08/26/covid-pandemic-pushes-hunt-for-remote-jobs-up-460percent.html.
-Ipsen, C., Veldhoven, M, V., Kirchner, K., & Hansen, J, P. (2021, February 13). Six key advantages and disadvantages of working from home in Europe during COVID-19. Int J Environ Res Public Health, 18(4), 1-17. https://doi.org/10.3390/ijerph18041826.
-RSPH. (2021, February 4). Survey reveals the mental and physical health impacts of home working during Covid-19. Royal Society for Public Health. Retrieved from https://www.rsph.org.uk/about-us/news/survey-reveals-the-mental-and-physical-health-impacts-of-home-working-during-covid-19.html.
-Vyas, L., & Butakhieo, N. (2021). The impact of working from home during COVID-19 on work and life domains: an exploratory study on Hong Kong. Policy Design and Practice, 4(1), 59-76. https://doi.org/10.1080/25741292.2020.1863560.
+2. **Follow the notebook**: Execute the cells in the notebook to perform data analysis and visualization.
 
-![image](https://github.com/Mo-Zeini/The-Impacts-of-Working-Remotely-and-in-an-Office/assets/73511110/fd9cc18f-6e3e-4b50-9896-0a31b49cb1fe)
+## File Structure
+
+- `Data Analysis and Visualization.ipynb`: Jupyter Notebook containing the data analysis and visualization code.
+- `The Impacts of Working Remotely and in an Office Survey.csv`: CSV file with the survey data.
+- `The Impacts of Working Remotely and in an Office.pdf`: PDF report detailing the research study, analysis, and findings.
+
+## Example
+
+Upon running the Jupyter Notebook, you will be able to see various visualizations and statistical analyses such as:
+
+- Distribution of responses for each survey question
+- Comparison of productivity between remote and office work
+- Analysis of mental and physical health impacts
+- Recommendations for hybrid work models
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Author
+
+- [Your Name](https://github.com/yourusername)
+
+## Acknowledgements
+
+- This project was developed as part of a research study on the impacts of different work environments on employees.
