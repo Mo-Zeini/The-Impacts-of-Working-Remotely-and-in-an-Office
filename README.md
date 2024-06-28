@@ -51,7 +51,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Author
 
-- [Your Name](https://github.com/Mo-Zeini)
+- [Mohamed Elzeini](https://github.com/Mo-Zeini)
 
 ## Acknowledgements
 
