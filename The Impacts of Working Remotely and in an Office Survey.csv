@@ -1,0 +1,1001 @@
+Response ID,Age Group,Gender,Industry,Years of Experience,Current Work Arrangement,Have you ever experienced working from home?,Do you think that working from home increases your work productivity?,Do you think that working from home prevents you from going out?,Do you think that working from home gives you more flexibility?,Do you think that working from home saves you more time?,"Which work type has the potential to cause you physical problems, such as the neck, back, and leg pain?","Which work type has the potential to cause mental disorders, such as stress, anxiety, and depression?",Do you think that working from home prevents you from getting in contact with people?,Which work type keeps you focused while working?,Which work type do you prefer the most?
+1,45–54,Male,Government,11–20 years,Fully In-Office,Yes,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+2,25–34,Male,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+3,45–54,Male,Other,3–5 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+4,35–44,Male,Retail/Hospitality,11–20 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+5,18–24,Female,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+6,55+,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+7,45–54,Female,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+8,45–54,Male,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+9,18–24,Female,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+10,25–34,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+11,25–34,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+12,55+,Female,Healthcare,20+ years,Fully Remote,Yes,Yes,Yes,No,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+13,35–44,Male,Technology,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+14,45–54,Female,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+15,25–34,Male,Education,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+16,25–34,Male,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+17,35–44,Female,Healthcare,20+ years,Fully Remote,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+18,18–24,Female,Technology,0–2 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+19,45–54,Male,Finance,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+20,35–44,Male,Education,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+21,45–54,Female,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+22,25–34,Female,Technology,11–20 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+23,55+,Non-binary/Other,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+24,45–54,Female,Healthcare,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+25,45–54,Female,Education,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+26,25–34,Male,Education,3–5 years,Fully In-Office,No,Yes,Yes,No,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+27,35–44,Female,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+28,18–24,Male,Education,11–20 years,Hybrid,No,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+29,25–34,Female,Finance,6–10 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+30,35–44,Male,Finance,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+31,45–54,Female,Technology,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working in an office
+32,55+,Female,Finance,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+33,25–34,Female,Healthcare,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+34,25–34,Female,Education,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+35,35–44,Male,Technology,20+ years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+36,25–34,Female,Government,11–20 years,Hybrid,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+37,18–24,Male,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+38,35–44,Male,Technology,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+39,25–34,Male,Finance,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+40,35–44,Male,Government,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+41,25–34,Male,Healthcare,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+42,45–54,Female,Government,20+ years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+43,35–44,Female,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+44,25–34,Female,Other,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+45,45–54,Male,Other,11–20 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+46,45–54,Male,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+47,25–34,Male,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+48,25–34,Female,Finance,11–20 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+49,35–44,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+50,18–24,Male,Healthcare,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+51,25–34,Female,Other,20+ years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+52,18–24,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+53,45–54,Male,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+54,35–44,Male,Government,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+55,35–44,Male,Healthcare,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+56,45–54,Female,Education,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+57,25–34,Female,Other,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+58,35–44,Male,Education,3–5 years,Fully In-Office,Yes,Yes,Yes,No,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+59,18–24,Female,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+60,18–24,Female,Technology,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+61,35–44,Female,Other,6–10 years,Fully In-Office,No,Yes,No,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+62,35–44,Female,Healthcare,6–10 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+63,35–44,Male,Finance,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+64,45–54,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+65,35–44,Male,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+66,35–44,Non-binary/Other,Other,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+67,35–44,Male,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+68,25–34,Female,Other,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+69,18–24,Male,Healthcare,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+70,25–34,Male,Finance,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working from home
+71,25–34,Female,Other,0–2 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+72,25–34,Female,Education,20+ years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working in an office,No,Working from home,Working from home
+73,45–54,Male,Healthcare,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+74,25–34,Female,Other,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+75,18–24,Female,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+76,25–34,Male,Finance,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+77,25–34,Female,Other,3–5 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+78,35–44,Female,Technology,6–10 years,Hybrid,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+79,35–44,Female,Healthcare,6–10 years,Fully Remote,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+80,45–54,Male,Technology,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+81,35–44,Male,Education,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+82,25–34,Female,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+83,45–54,Female,Retail/Hospitality,11–20 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+84,25–34,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+85,18–24,Non-binary/Other,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+86,18–24,Female,Healthcare,3–5 years,Fully In-Office,No,No,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+87,35–44,Female,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+88,35–44,Female,Healthcare,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+89,25–34,Female,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+90,35–44,Male,Education,20+ years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+91,25–34,Male,Healthcare,20+ years,Fully Remote,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+92,35–44,Female,Other,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+93,25–34,Male,Finance,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working from home
+94,25–34,Male,Technology,20+ years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+95,25–34,Female,Other,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+96,35–44,Male,Healthcare,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+97,25–34,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+98,18–24,Female,Education,6–10 years,Hybrid,Yes,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+99,18–24,Female,Technology,3–5 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+100,55+,Male,Healthcare,3–5 years,Fully In-Office,Yes,No,No,No,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+101,45–54,Male,Retail/Hospitality,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+102,35–44,Male,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+103,25–34,Female,Government,20+ years,Hybrid,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+104,55+,Female,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+105,45–54,Male,Finance,11–20 years,Fully In-Office,No,Yes,No,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+106,35–44,Female,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+107,25–34,Male,Retail/Hospitality,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+108,25–34,Male,Other,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+109,18–24,Non-binary/Other,Healthcare,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+110,45–54,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+111,25–34,Male,Finance,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+112,25–34,Male,Finance,3–5 years,Fully In-Office,Yes,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+113,25–34,Female,Technology,11–20 years,Fully In-Office,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+114,35–44,Female,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+115,25–34,Non-binary/Other,Technology,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+116,45–54,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+117,45–54,Male,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+118,35–44,Female,Technology,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+119,25–34,Male,Technology,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+120,35–44,Female,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+121,35–44,Female,Healthcare,3–5 years,Fully In-Office,No,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+122,35–44,Male,Technology,3–5 years,Fully In-Office,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+123,18–24,Female,Healthcare,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+124,25–34,Male,Technology,6–10 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+125,18–24,Male,Education,3–5 years,Fully In-Office,No,Yes,Yes,No,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+126,35–44,Female,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,Working from home
+127,25–34,Female,Healthcare,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,Working from home
+128,25–34,Female,Healthcare,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+129,18–24,Female,Technology,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+130,35–44,Non-binary/Other,Technology,20+ years,Fully In-Office,No,No,No,No,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+131,25–34,Non-binary/Other,Technology,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+132,55+,Female,Government,20+ years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+133,35–44,Male,Other,0–2 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+134,25–34,Female,Other,0–2 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+135,35–44,Non-binary/Other,Finance,11–20 years,Hybrid,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+136,18–24,Male,Finance,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+137,55+,Male,Healthcare,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+138,35–44,Male,Government,0–2 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+139,45–54,Male,Government,11–20 years,Fully In-Office,No,No,No,No,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+140,18–24,Female,Government,6–10 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+141,35–44,Male,Other,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+142,35–44,Female,Education,3–5 years,Hybrid,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+143,55+,Female,Government,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+144,35–44,Female,Government,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+145,35–44,Male,Healthcare,11–20 years,Hybrid,Yes,No,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+146,25–34,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+147,25–34,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+148,35–44,Female,Other,11–20 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+149,25–34,Female,Government,11–20 years,Hybrid,No,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+150,18–24,Female,Technology,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+151,45–54,Male,Retail/Hospitality,0–2 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+152,45–54,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working in an office
+153,25–34,Male,Government,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+154,35–44,Male,Government,0–2 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+155,18–24,Female,Finance,3–5 years,Hybrid,No,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+156,35–44,Male,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+157,25–34,Male,Technology,0–2 years,Fully In-Office,No,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+158,35–44,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+159,35–44,Male,Education,20+ years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+160,45–54,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+161,18–24,Male,Education,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+162,55+,Female,Healthcare,20+ years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+163,25–34,Female,Education,3–5 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+164,18–24,Male,Education,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+165,35–44,Male,Other,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+166,25–34,Female,Healthcare,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+167,45–54,Female,Other,0–2 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+168,45–54,Female,Education,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+169,25–34,Female,Healthcare,0–2 years,Hybrid,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+170,55+,Male,Finance,6–10 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+171,25–34,Male,Education,20+ years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+172,35–44,Female,Healthcare,11–20 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+173,25–34,Male,Finance,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+174,55+,Female,Technology,20+ years,Hybrid,No,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+175,25–34,Female,Healthcare,11–20 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+176,18–24,Female,Finance,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working in an office
+177,25–34,Male,Education,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+178,55+,Male,Government,6–10 years,Fully In-Office,No,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+179,45–54,Male,Healthcare,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+180,45–54,Male,Other,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+181,45–54,Female,Government,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+182,45–54,Male,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+183,35–44,Male,Government,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+184,25–34,Male,Technology,3–5 years,Hybrid,Yes,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+185,45–54,Male,Finance,0–2 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+186,35–44,Female,Technology,0–2 years,Fully In-Office,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+187,25–34,Male,Government,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+188,18–24,Non-binary/Other,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+189,45–54,Male,Healthcare,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+190,25–34,Female,Other,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+191,55+,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+192,25–34,Male,Finance,0–2 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+193,18–24,Female,Retail/Hospitality,6–10 years,Hybrid,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+194,45–54,Non-binary/Other,Technology,11–20 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+195,25–34,Female,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+196,25–34,Male,Government,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+197,35–44,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+198,45–54,Female,Finance,0–2 years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+199,25–34,Male,Healthcare,3–5 years,Fully Remote,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+200,25–34,Female,Retail/Hospitality,20+ years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+201,45–54,Female,Technology,11–20 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+202,55+,Female,Other,20+ years,Fully In-Office,Yes,No,Yes,No,No,Working in an office,Working from home,Yes,Working from home,Working in an office
+203,35–44,Female,Other,20+ years,Fully Remote,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+204,25–34,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+205,18–24,Male,Healthcare,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+206,25–34,Male,Finance,6–10 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+207,18–24,Female,Retail/Hospitality,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+208,35–44,Female,Education,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+209,18–24,Male,Technology,0–2 years,Hybrid,No,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+210,35–44,Male,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+211,35–44,Female,Other,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+212,35–44,Female,Education,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+213,25–34,Female,Other,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+214,45–54,Male,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+215,35–44,Male,Other,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+216,35–44,Female,Technology,11–20 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+217,18–24,Male,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+218,18–24,Female,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+219,55+,Female,Other,3–5 years,Fully In-Office,Yes,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+220,25–34,Male,Healthcare,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+221,25–34,Male,Healthcare,3–5 years,Fully Remote,Yes,Yes,Yes,No,No,Working from home,Working from home,Yes,Working from home,Working in an office
+222,35–44,Male,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+223,35–44,Female,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+224,55+,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+225,25–34,Male,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+226,55+,Female,Healthcare,11–20 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+227,18–24,Male,Retail/Hospitality,11–20 years,Hybrid,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+228,35–44,Male,Technology,3–5 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+229,35–44,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+230,18–24,Male,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+231,25–34,Male,Healthcare,6–10 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+232,25–34,Female,Retail/Hospitality,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working from home
+233,55+,Male,Technology,6–10 years,Fully In-Office,Yes,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+234,35–44,Female,Other,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+235,55+,Male,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+236,45–54,Male,Other,0–2 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+237,35–44,Male,Technology,20+ years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+238,45–54,Male,Healthcare,3–5 years,Fully In-Office,No,No,Yes,No,No,Working from home,Working from home,No,Working in an office,Working in an office
+239,18–24,Male,Healthcare,6–10 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+240,18–24,Male,Finance,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+241,45–54,Female,Healthcare,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+242,45–54,Male,Technology,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+243,25–34,Male,Healthcare,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+244,35–44,Male,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+245,35–44,Male,Education,0–2 years,Fully In-Office,No,No,No,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+246,45–54,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+247,35–44,Female,Healthcare,3–5 years,Fully In-Office,No,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+248,25–34,Male,Retail/Hospitality,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+249,25–34,Female,Education,20+ years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+250,25–34,Female,Healthcare,6–10 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+251,35–44,Male,Finance,20+ years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+252,45–54,Male,Government,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+253,25–34,Male,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+254,25–34,Female,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+255,25–34,Male,Other,0–2 years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working from home,Yes,Working from home,Working from home
+256,45–54,Female,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+257,45–54,Female,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+258,18–24,Female,Government,3–5 years,Hybrid,Yes,No,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+259,18–24,Female,Technology,6–10 years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,No,Working in an office,Working in an office
+260,35–44,Non-binary/Other,Education,0–2 years,Fully Remote,Yes,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,Working in an office
+261,25–34,Male,Retail/Hospitality,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+262,45–54,Male,Other,11–20 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+263,25–34,Male,Education,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+264,25–34,Female,Technology,6–10 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+265,55+,Female,Finance,3–5 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+266,25–34,Female,Technology,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+267,25–34,Male,Government,3–5 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+268,25–34,Non-binary/Other,Finance,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+269,18–24,Female,Retail/Hospitality,20+ years,Fully In-Office,No,No,Yes,No,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+270,18–24,Female,Other,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+271,18–24,Non-binary/Other,Retail/Hospitality,20+ years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+272,25–34,Male,Finance,6–10 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+273,18–24,Male,Government,11–20 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+274,35–44,Female,Government,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+275,35–44,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+276,25–34,Male,Technology,11–20 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+277,25–34,Male,Finance,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+278,35–44,Male,Technology,6–10 years,Fully In-Office,Yes,Yes,Yes,No,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+279,45–54,Female,Other,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+280,45–54,Female,Retail/Hospitality,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+281,18–24,Male,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+282,25–34,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+283,25–34,Male,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+284,25–34,Female,Retail/Hospitality,0–2 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+285,35–44,Female,Technology,3–5 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+286,25–34,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+287,18–24,Male,Other,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+288,25–34,Male,Government,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+289,35–44,Male,Technology,0–2 years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+290,18–24,Female,Healthcare,6–10 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+291,45–54,Male,Other,6–10 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+292,18–24,Female,Retail/Hospitality,11–20 years,Fully Remote,No,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+293,55+,Female,Finance,6–10 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+294,18–24,Male,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+295,45–54,Male,Healthcare,6–10 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+296,45–54,Male,Technology,20+ years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+297,55+,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+298,45–54,Male,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+299,45–54,Female,Technology,6–10 years,Hybrid,Yes,No,No,No,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+300,35–44,Male,Retail/Hospitality,0–2 years,Fully In-Office,No,No,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+301,45–54,Male,Other,20+ years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+302,18–24,Female,Government,3–5 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+303,35–44,Female,Education,3–5 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+304,35–44,Male,Education,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+305,45–54,Female,Education,11–20 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+306,35–44,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+307,25–34,Female,Finance,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+308,35–44,Female,Education,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+309,25–34,Male,Finance,6–10 years,Fully In-Office,Yes,No,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+310,18–24,Female,Other,0–2 years,Hybrid,Yes,Yes,Yes,No,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+311,35–44,Male,Other,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+312,25–34,Female,Technology,20+ years,Fully In-Office,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+313,25–34,Female,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+314,25–34,Male,Technology,6–10 years,Fully In-Office,No,No,No,No,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+315,25–34,Male,Healthcare,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+316,25–34,Female,Healthcare,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+317,25–34,Female,Technology,11–20 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working from home,Working in an office
+318,35–44,Male,Government,0–2 years,Fully In-Office,No,No,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+319,25–34,Female,Education,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+320,55+,Female,Other,3–5 years,Hybrid,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+321,55+,Female,Technology,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+322,35–44,Male,Technology,6–10 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+323,25–34,Male,Education,11–20 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+324,35–44,Female,Technology,11–20 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+325,45–54,Male,Healthcare,6–10 years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+326,35–44,Female,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+327,45–54,Male,Technology,6–10 years,Fully Remote,Yes,Yes,No,No,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+328,35–44,Female,Technology,11–20 years,Fully In-Office,No,Yes,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+329,35–44,Male,Finance,6–10 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+330,25–34,Male,Education,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+331,35–44,Female,Finance,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+332,25–34,Female,Education,3–5 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+333,35–44,Female,Government,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+334,45–54,Female,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+335,18–24,Female,Education,6–10 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+336,35–44,Female,Retail/Hospitality,6–10 years,Fully Remote,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+337,18–24,Male,Other,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+338,35–44,Female,Healthcare,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+339,18–24,Female,Finance,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+340,55+,Male,Technology,6–10 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+341,18–24,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+342,55+,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working from home,Working from home
+343,45–54,Female,Retail/Hospitality,3–5 years,Hybrid,Yes,No,Yes,No,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+344,35–44,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+345,45–54,Non-binary/Other,Retail/Hospitality,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+346,45–54,Female,Technology,11–20 years,Fully In-Office,No,Yes,Yes,No,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+347,55+,Male,Other,11–20 years,Fully In-Office,No,No,No,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+348,25–34,Male,Government,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+349,35–44,Male,Technology,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+350,18–24,Male,Technology,6–10 years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,No,Working in an office,Working from home
+351,35–44,Female,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+352,25–34,Female,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+353,35–44,Male,Healthcare,0–2 years,Hybrid,No,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+354,35–44,Male,Finance,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+355,35–44,Female,Education,6–10 years,Fully In-Office,Yes,Yes,Yes,No,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+356,35–44,Male,Government,6–10 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+357,45–54,Female,Education,6–10 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+358,45–54,Male,Finance,6–10 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+359,35–44,Female,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+360,35–44,Male,Technology,11–20 years,Fully In-Office,No,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+361,55+,Female,Government,3–5 years,Fully Remote,Yes,Yes,Yes,No,No,Working from home,Working from home,Yes,Working from home,Working from home
+362,18–24,Male,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+363,18–24,Female,Education,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+364,18–24,Male,Other,6–10 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+365,35–44,Male,Retail/Hospitality,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+366,25–34,Female,Retail/Hospitality,3–5 years,Fully Remote,Yes,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+367,45–54,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,No,No,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+368,35–44,Male,Education,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+369,25–34,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+370,45–54,Male,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+371,45–54,Male,Education,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+372,25–34,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+373,25–34,Male,Healthcare,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+374,25–34,Female,Healthcare,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+375,25–34,Non-binary/Other,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+376,25–34,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+377,55+,Female,Other,0–2 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+378,25–34,Female,Finance,20+ years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+379,25–34,Female,Technology,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+380,35–44,Male,Retail/Hospitality,20+ years,Fully Remote,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+381,35–44,Male,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+382,55+,Male,Healthcare,11–20 years,Hybrid,No,No,Yes,No,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+383,45–54,Female,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+384,35–44,Non-binary/Other,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+385,25–34,Female,Technology,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+386,55+,Male,Government,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+387,35–44,Female,Other,6–10 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+388,55+,Male,Technology,20+ years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working in an office
+389,18–24,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working from home
+390,45–54,Male,Technology,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+391,35–44,Female,Finance,0–2 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+392,18–24,Female,Government,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+393,35–44,Male,Healthcare,20+ years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+394,35–44,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+395,18–24,Female,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working from home
+396,25–34,Male,Other,20+ years,Hybrid,Yes,Yes,Yes,No,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+397,45–54,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+398,25–34,Female,Technology,0–2 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+399,25–34,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+400,25–34,Male,Finance,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+401,25–34,Male,Finance,0–2 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+402,55+,Male,Government,11–20 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+403,45–54,Female,Government,6–10 years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+404,18–24,Male,Other,20+ years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+405,55+,Male,Government,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+406,45–54,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+407,25–34,Female,Finance,6–10 years,Fully In-Office,No,No,Yes,No,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+408,45–54,Male,Healthcare,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+409,18–24,Female,Healthcare,6–10 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+410,55+,Female,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+411,35–44,Female,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+412,35–44,Non-binary/Other,Other,0–2 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+413,18–24,Female,Education,6–10 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+414,45–54,Female,Finance,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+415,18–24,Male,Education,3–5 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+416,25–34,Female,Technology,3–5 years,Fully In-Office,Yes,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working from home,Working in an office
+417,25–34,Female,Healthcare,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+418,45–54,Female,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+419,25–34,Female,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+420,55+,Non-binary/Other,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+421,35–44,Female,Technology,11–20 years,Hybrid,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+422,18–24,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working from home
+423,18–24,Male,Government,11–20 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+424,18–24,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+425,35–44,Male,Other,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+426,45–54,Male,Retail/Hospitality,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+427,25–34,Male,Technology,0–2 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+428,45–54,Male,Retail/Hospitality,20+ years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+429,18–24,Female,Retail/Hospitality,20+ years,Fully Remote,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+430,45–54,Male,Government,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+431,55+,Female,Government,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+432,45–54,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+433,35–44,Male,Finance,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+434,45–54,Male,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+435,18–24,Male,Retail/Hospitality,0–2 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working from home
+436,25–34,Non-binary/Other,Other,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+437,18–24,Male,Finance,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+438,35–44,Female,Retail/Hospitality,3–5 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+439,45–54,Female,Education,0–2 years,Hybrid,Yes,Yes,Yes,No,No,Working from home,Working in an office,No,Working from home,Working from home
+440,35–44,Non-binary/Other,Government,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+441,45–54,Male,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+442,25–34,Male,Technology,3–5 years,Hybrid,Yes,Yes,Yes,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+443,35–44,Male,Technology,0–2 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+444,25–34,Male,Finance,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+445,25–34,Male,Education,20+ years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+446,35–44,Female,Finance,3–5 years,Hybrid,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+447,55+,Female,Technology,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+448,35–44,Female,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+449,18–24,Female,Finance,3–5 years,Hybrid,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+450,35–44,Male,Finance,11–20 years,Fully Remote,Yes,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+451,18–24,Female,Retail/Hospitality,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+452,45–54,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,Yes,No,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+453,35–44,Female,Retail/Hospitality,0–2 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+454,25–34,Female,Government,0–2 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+455,18–24,Male,Retail/Hospitality,20+ years,Hybrid,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+456,25–34,Male,Finance,11–20 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+457,55+,Male,Finance,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+458,25–34,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+459,45–54,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+460,35–44,Male,Finance,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+461,35–44,Female,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+462,25–34,Female,Retail/Hospitality,11–20 years,Hybrid,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+463,55+,Male,Technology,0–2 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+464,25–34,Male,Finance,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+465,35–44,Female,Healthcare,11–20 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+466,35–44,Female,Retail/Hospitality,11–20 years,Fully Remote,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+467,35–44,Male,Government,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+468,55+,Male,Finance,3–5 years,Hybrid,Yes,No,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+469,25–34,Female,Finance,3–5 years,Fully In-Office,No,Yes,No,Yes,Yes,Working from home,Working in an office,No,Working from home,Working in an office
+470,35–44,Male,Healthcare,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+471,25–34,Female,Education,6–10 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+472,35–44,Male,Other,6–10 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+473,18–24,Male,Retail/Hospitality,6–10 years,Hybrid,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+474,18–24,Female,Finance,6–10 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+475,25–34,Female,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+476,25–34,Female,Technology,6–10 years,Hybrid,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+477,25–34,Male,Technology,11–20 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+478,35–44,Non-binary/Other,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+479,35–44,Female,Education,20+ years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+480,25–34,Male,Other,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+481,25–34,Male,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+482,25–34,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+483,35–44,Female,Technology,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+484,25–34,Male,Healthcare,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+485,18–24,Female,Government,11–20 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+486,25–34,Male,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+487,35–44,Non-binary/Other,Government,11–20 years,Fully In-Office,Yes,No,Yes,No,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+488,25–34,Male,Government,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working from home
+489,35–44,Female,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+490,35–44,Male,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+491,35–44,Male,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+492,35–44,Female,Education,0–2 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+493,35–44,Female,Technology,11–20 years,Fully In-Office,Yes,No,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+494,25–34,Female,Other,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+495,45–54,Male,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+496,35–44,Female,Finance,11–20 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+497,25–34,Female,Finance,11–20 years,Hybrid,Yes,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+498,35–44,Female,Technology,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+499,25–34,Male,Government,6–10 years,Fully In-Office,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+500,35–44,Female,Education,11–20 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+501,35–44,Female,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+502,45–54,Female,Retail/Hospitality,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+503,55+,Male,Other,0–2 years,Hybrid,Yes,Yes,Yes,No,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+504,35–44,Male,Government,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+505,35–44,Female,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+506,45–54,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+507,25–34,Female,Other,6–10 years,Hybrid,No,Yes,No,Yes,No,Working in an office,Working from home,No,Working from home,Working from home
+508,45–54,Male,Other,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+509,35–44,Male,Finance,11–20 years,Fully In-Office,No,Yes,Yes,No,No,Working in an office,Working in an office,No,Working from home,Working in an office
+510,18–24,Female,Retail/Hospitality,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+511,18–24,Male,Education,20+ years,Hybrid,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+512,45–54,Male,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+513,18–24,Female,Technology,20+ years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+514,25–34,Female,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+515,25–34,Female,Healthcare,20+ years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+516,25–34,Male,Government,11–20 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+517,25–34,Male,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working from home
+518,45–54,Female,Healthcare,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+519,18–24,Male,Finance,6–10 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+520,45–54,Male,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+521,45–54,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+522,25–34,Female,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+523,25–34,Female,Healthcare,0–2 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+524,35–44,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+525,18–24,Female,Other,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+526,25–34,Male,Technology,6–10 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+527,55+,Male,Other,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+528,55+,Male,Other,3–5 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+529,45–54,Male,Government,11–20 years,Fully Remote,Yes,No,Yes,No,Yes,Working from home,Working in an office,No,Working from home,Working from home
+530,25–34,Male,Retail/Hospitality,6–10 years,Hybrid,Yes,No,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+531,35–44,Male,Retail/Hospitality,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+532,35–44,Male,Retail/Hospitality,0–2 years,Hybrid,Yes,Yes,Yes,No,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+533,25–34,Female,Retail/Hospitality,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+534,35–44,Female,Technology,3–5 years,Hybrid,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+535,18–24,Male,Other,11–20 years,Hybrid,No,No,Yes,No,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+536,25–34,Female,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+537,35–44,Female,Government,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+538,25–34,Female,Education,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+539,25–34,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+540,45–54,Male,Finance,3–5 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+541,55+,Female,Finance,20+ years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+542,35–44,Male,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+543,45–54,Male,Healthcare,20+ years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+544,55+,Male,Healthcare,3–5 years,Hybrid,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+545,25–34,Male,Finance,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+546,25–34,Male,Education,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+547,25–34,Male,Other,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+548,18–24,Female,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+549,45–54,Male,Healthcare,0–2 years,Fully In-Office,No,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+550,25–34,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+551,35–44,Male,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+552,25–34,Male,Education,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+553,25–34,Male,Retail/Hospitality,3–5 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+554,45–54,Male,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+555,18–24,Male,Healthcare,3–5 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+556,25–34,Female,Retail/Hospitality,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+557,25–34,Female,Technology,6–10 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+558,35–44,Female,Healthcare,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+559,35–44,Female,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+560,35–44,Female,Technology,6–10 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+561,18–24,Non-binary/Other,Finance,11–20 years,Fully In-Office,No,No,No,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+562,25–34,Female,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+563,45–54,Female,Retail/Hospitality,20+ years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+564,35–44,Female,Finance,3–5 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+565,35–44,Female,Finance,20+ years,Fully Remote,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working from home,Working from home
+566,35–44,Male,Education,11–20 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+567,45–54,Male,Technology,11–20 years,Fully In-Office,Yes,No,No,No,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+568,18–24,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+569,25–34,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+570,35–44,Female,Other,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+571,25–34,Male,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+572,45–54,Female,Finance,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+573,35–44,Female,Government,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+574,45–54,Female,Government,6–10 years,Hybrid,Yes,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+575,45–54,Male,Finance,3–5 years,Fully In-Office,No,No,Yes,No,No,Working from home,Working from home,No,Working in an office,Working in an office
+576,35–44,Male,Finance,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+577,45–54,Female,Retail/Hospitality,11–20 years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+578,35–44,Female,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+579,45–54,Non-binary/Other,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+580,25–34,Female,Other,0–2 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+581,35–44,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+582,35–44,Male,Government,11–20 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+583,18–24,Male,Technology,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+584,25–34,Male,Technology,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+585,55+,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+586,35–44,Female,Education,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+587,25–34,Male,Healthcare,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+588,25–34,Female,Technology,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+589,25–34,Male,Education,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+590,18–24,Male,Education,3–5 years,Fully In-Office,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working from home,Working from home
+591,55+,Male,Government,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+592,25–34,Male,Other,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+593,25–34,Female,Retail/Hospitality,11–20 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+594,35–44,Male,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+595,18–24,Female,Healthcare,0–2 years,Fully Remote,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working from home
+596,25–34,Female,Other,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+597,35–44,Male,Technology,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+598,35–44,Male,Education,20+ years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+599,55+,Female,Other,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+600,35–44,Male,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+601,35–44,Female,Education,3–5 years,Hybrid,No,Yes,No,No,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+602,45–54,Male,Retail/Hospitality,0–2 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+603,45–54,Female,Education,6–10 years,Fully In-Office,No,No,No,No,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+604,35–44,Female,Government,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+605,55+,Male,Technology,20+ years,Fully In-Office,No,Yes,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+606,45–54,Male,Technology,0–2 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+607,45–54,Female,Finance,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+608,18–24,Male,Healthcare,3–5 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+609,35–44,Male,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+610,25–34,Male,Healthcare,3–5 years,Fully In-Office,No,Yes,No,Yes,Yes,Working in an office,Working from home,No,Working in an office,Working in an office
+611,35–44,Male,Other,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+612,35–44,Female,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+613,55+,Female,Education,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+614,55+,Male,Government,20+ years,Hybrid,Yes,Yes,Yes,No,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+615,25–34,Female,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+616,35–44,Male,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working in an office
+617,45–54,Male,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+618,25–34,Female,Other,3–5 years,Hybrid,Yes,Yes,No,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+619,18–24,Non-binary/Other,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+620,18–24,Male,Other,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+621,45–54,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+622,35–44,Female,Other,3–5 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+623,55+,Female,Healthcare,6–10 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+624,35–44,Male,Other,11–20 years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,No,Working in an office,Working in an office
+625,55+,Male,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+626,25–34,Female,Education,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+627,45–54,Male,Finance,20+ years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,Working in an office
+628,18–24,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+629,35–44,Male,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+630,45–54,Male,Healthcare,3–5 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,Working in an office
+631,55+,Male,Technology,0–2 years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+632,45–54,Female,Education,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+633,18–24,Female,Other,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+634,25–34,Female,Retail/Hospitality,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+635,18–24,Non-binary/Other,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+636,18–24,Male,Education,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working from home
+637,35–44,Male,Education,11–20 years,Hybrid,No,Yes,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+638,35–44,Female,Technology,3–5 years,Fully In-Office,Yes,Yes,Yes,No,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+639,45–54,Male,Government,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+640,45–54,Female,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+641,35–44,Female,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+642,45–54,Male,Government,0–2 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+643,18–24,Male,Finance,11–20 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+644,25–34,Male,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+645,35–44,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+646,45–54,Male,Other,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+647,18–24,Male,Retail/Hospitality,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+648,35–44,Female,Government,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+649,35–44,Female,Retail/Hospitality,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+650,18–24,Female,Government,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+651,25–34,Male,Other,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+652,45–54,Male,Education,3–5 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+653,35–44,Male,Government,3–5 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+654,25–34,Male,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+655,45–54,Female,Education,3–5 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+656,25–34,Male,Other,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+657,45–54,Male,Education,3–5 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+658,25–34,Female,Finance,6–10 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+659,35–44,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working from home
+660,25–34,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+661,25–34,Male,Government,3–5 years,Fully In-Office,No,Yes,Yes,No,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+662,45–54,Female,Education,20+ years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+663,25–34,Female,Education,20+ years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+664,18–24,Male,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+665,25–34,Female,Education,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+666,35–44,Female,Government,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+667,45–54,Female,Other,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+668,55+,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+669,25–34,Male,Finance,6–10 years,Fully In-Office,No,Yes,No,No,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+670,25–34,Female,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+671,18–24,Male,Finance,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+672,35–44,Female,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+673,55+,Female,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+674,35–44,Male,Education,3–5 years,Hybrid,No,Yes,No,Yes,No,Working in an office,Working in an office,No,Working from home,A mixed mode of working
+675,35–44,Female,Finance,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+676,25–34,Female,Finance,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+677,55+,Female,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+678,35–44,Male,Government,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+679,18–24,Female,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+680,25–34,Female,Healthcare,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+681,18–24,Female,Government,11–20 years,Fully In-Office,No,Yes,No,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+682,25–34,Female,Other,3–5 years,Fully Remote,No,Yes,No,No,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+683,18–24,Female,Technology,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+684,25–34,Male,Finance,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working from home
+685,35–44,Male,Healthcare,3–5 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+686,25–34,Male,Retail/Hospitality,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+687,25–34,Female,Healthcare,3–5 years,Hybrid,No,No,No,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+688,55+,Female,Retail/Hospitality,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+689,45–54,Female,Healthcare,6–10 years,Fully In-Office,No,No,No,No,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+690,35–44,Male,Finance,6–10 years,Fully In-Office,No,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+691,25–34,Female,Other,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+692,45–54,Female,Education,6–10 years,Fully Remote,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+693,25–34,Male,Other,0–2 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+694,25–34,Female,Other,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+695,45–54,Female,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+696,35–44,Female,Technology,6–10 years,Hybrid,No,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+697,45–54,Male,Government,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+698,35–44,Female,Technology,0–2 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+699,35–44,Female,Education,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+700,25–34,Female,Other,6–10 years,Fully In-Office,No,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+701,25–34,Female,Retail/Hospitality,20+ years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working from home,No,Working in an office,Working in an office
+702,25–34,Non-binary/Other,Finance,3–5 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+703,25–34,Male,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+704,45–54,Female,Government,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+705,25–34,Male,Retail/Hospitality,0–2 years,Fully Remote,Yes,No,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+706,35–44,Non-binary/Other,Education,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+707,45–54,Male,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+708,45–54,Male,Healthcare,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,Working in an office
+709,25–34,Female,Technology,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+710,35–44,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+711,55+,Female,Other,11–20 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+712,35–44,Male,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+713,45–54,Non-binary/Other,Healthcare,20+ years,Hybrid,Yes,No,Yes,No,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+714,45–54,Female,Technology,11–20 years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+715,45–54,Male,Other,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+716,25–34,Female,Healthcare,11–20 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+717,35–44,Male,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+718,18–24,Female,Other,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+719,35–44,Female,Technology,20+ years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+720,55+,Female,Finance,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+721,35–44,Male,Finance,11–20 years,Hybrid,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+722,25–34,Male,Government,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+723,18–24,Female,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+724,55+,Female,Education,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+725,18–24,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+726,18–24,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+727,25–34,Male,Government,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+728,18–24,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+729,25–34,Male,Education,11–20 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+730,35–44,Male,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+731,25–34,Female,Technology,20+ years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+732,18–24,Male,Healthcare,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+733,18–24,Female,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+734,25–34,Male,Healthcare,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+735,18–24,Female,Healthcare,3–5 years,Fully In-Office,No,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+736,35–44,Female,Education,20+ years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+737,25–34,Female,Technology,3–5 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+738,25–34,Male,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+739,25–34,Female,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+740,25–34,Female,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+741,18–24,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+742,18–24,Male,Government,3–5 years,Fully Remote,Yes,Yes,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working from home
+743,45–54,Male,Technology,11–20 years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+744,18–24,Female,Government,6–10 years,Hybrid,Yes,No,Yes,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+745,35–44,Female,Healthcare,0–2 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+746,35–44,Female,Government,11–20 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+747,25–34,Female,Technology,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+748,25–34,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+749,45–54,Male,Education,3–5 years,Fully In-Office,No,No,Yes,No,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+750,45–54,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,Working from home
+751,25–34,Female,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+752,25–34,Male,Retail/Hospitality,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+753,25–34,Female,Government,6–10 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+754,35–44,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+755,35–44,Male,Other,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,Working in an office
+756,25–34,Female,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+757,25–34,Male,Other,3–5 years,Hybrid,Yes,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+758,55+,Non-binary/Other,Retail/Hospitality,3–5 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+759,18–24,Female,Retail/Hospitality,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+760,35–44,Female,Finance,3–5 years,Fully In-Office,No,No,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+761,35–44,Male,Retail/Hospitality,20+ years,Hybrid,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+762,25–34,Male,Other,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+763,18–24,Male,Technology,0–2 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+764,18–24,Male,Healthcare,3–5 years,Hybrid,Yes,No,No,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+765,55+,Male,Technology,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+766,18–24,Male,Other,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+767,25–34,Non-binary/Other,Education,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+768,18–24,Male,Retail/Hospitality,3–5 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+769,18–24,Male,Government,11–20 years,Fully Remote,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+770,35–44,Female,Other,11–20 years,Fully In-Office,Yes,No,No,Yes,No,Working in an office,Working in an office,No,Working in an office,Working in an office
+771,25–34,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+772,35–44,Female,Government,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+773,35–44,Female,Other,11–20 years,Fully Remote,Yes,Yes,Yes,No,Yes,Working from home,Working in an office,Yes,Working from home,Working in an office
+774,45–54,Female,Technology,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+775,18–24,Female,Government,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,Working from home
+776,45–54,Female,Healthcare,6–10 years,Fully Remote,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+777,35–44,Female,Retail/Hospitality,11–20 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+778,25–34,Male,Finance,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+779,45–54,Male,Healthcare,11–20 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+780,45–54,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+781,25–34,Male,Technology,0–2 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+782,55+,Female,Technology,11–20 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+783,25–34,Male,Retail/Hospitality,20+ years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+784,35–44,Male,Healthcare,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+785,55+,Male,Technology,6–10 years,Fully In-Office,No,Yes,No,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+786,25–34,Female,Retail/Hospitality,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+787,45–54,Male,Retail/Hospitality,20+ years,Hybrid,Yes,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,Working in an office
+788,25–34,Female,Finance,0–2 years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+789,45–54,Female,Other,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+790,35–44,Male,Education,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+791,25–34,Female,Government,3–5 years,Hybrid,Yes,Yes,Yes,No,Yes,Working in an office,Working in an office,Yes,Working from home,Working from home
+792,25–34,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,Working in an office
+793,25–34,Male,Retail/Hospitality,0–2 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+794,18–24,Female,Other,3–5 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+795,18–24,Female,Government,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+796,25–34,Male,Finance,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+797,18–24,Female,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+798,25–34,Male,Healthcare,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+799,35–44,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,Yes,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+800,35–44,Female,Government,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+801,35–44,Female,Other,0–2 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+802,25–34,Female,Education,3–5 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+803,45–54,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+804,35–44,Female,Finance,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+805,18–24,Female,Technology,0–2 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working in an office,No,Working in an office,Working from home
+806,25–34,Female,Healthcare,3–5 years,Fully In-Office,Yes,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+807,35–44,Male,Healthcare,11–20 years,Hybrid,Yes,No,Yes,No,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+808,25–34,Male,Retail/Hospitality,11–20 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+809,35–44,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+810,55+,Male,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+811,18–24,Male,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+812,18–24,Male,Other,0–2 years,Fully In-Office,No,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+813,55+,Female,Retail/Hospitality,6–10 years,Hybrid,Yes,Yes,Yes,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+814,35–44,Male,Technology,0–2 years,Fully In-Office,No,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+815,18–24,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+816,45–54,Female,Finance,6–10 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+817,45–54,Female,Healthcare,6–10 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+818,35–44,Male,Finance,3–5 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+819,35–44,Female,Education,11–20 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+820,25–34,Female,Other,11–20 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,No,Working from home,A mixed mode of working
+821,18–24,Female,Healthcare,11–20 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+822,35–44,Female,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+823,25–34,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+824,35–44,Female,Other,0–2 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+825,45–54,Female,Other,11–20 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+826,18–24,Male,Retail/Hospitality,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+827,35–44,Female,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+828,25–34,Female,Technology,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+829,45–54,Female,Government,20+ years,Fully In-Office,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+830,25–34,Female,Retail/Hospitality,11–20 years,Fully In-Office,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+831,35–44,Male,Healthcare,6–10 years,Hybrid,No,No,No,Yes,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+832,35–44,Female,Education,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+833,25–34,Male,Education,6–10 years,Fully In-Office,Yes,Yes,No,No,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+834,35–44,Male,Government,6–10 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working from home
+835,35–44,Male,Retail/Hospitality,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+836,35–44,Male,Retail/Hospitality,6–10 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+837,45–54,Male,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+838,55+,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+839,25–34,Female,Education,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+840,35–44,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+841,18–24,Male,Government,11–20 years,Fully In-Office,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+842,45–54,Female,Education,11–20 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+843,35–44,Male,Education,11–20 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+844,25–34,Female,Healthcare,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+845,18–24,Male,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+846,45–54,Female,Finance,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+847,25–34,Male,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+848,35–44,Female,Technology,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+849,25–34,Male,Government,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+850,55+,Female,Education,3–5 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+851,25–34,Male,Education,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+852,25–34,Female,Education,3–5 years,Fully In-Office,No,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+853,45–54,Female,Government,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+854,55+,Female,Healthcare,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,A mixed mode of working
+855,25–34,Female,Government,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+856,35–44,Non-binary/Other,Other,3–5 years,Fully In-Office,Yes,No,Yes,No,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+857,35–44,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+858,45–54,Male,Education,6–10 years,Hybrid,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+859,25–34,Male,Retail/Hospitality,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+860,35–44,Male,Education,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+861,45–54,Female,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+862,35–44,Non-binary/Other,Finance,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+863,45–54,Non-binary/Other,Healthcare,11–20 years,Fully Remote,Yes,Yes,Yes,No,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+864,35–44,Female,Technology,3–5 years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+865,18–24,Female,Education,20+ years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working from home,A mixed mode of working
+866,45–54,Female,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+867,45–54,Female,Education,6–10 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+868,45–54,Male,Finance,3–5 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+869,18–24,Female,Other,11–20 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+870,25–34,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+871,45–54,Male,Retail/Hospitality,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+872,18–24,Male,Education,3–5 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+873,55+,Non-binary/Other,Technology,0–2 years,Fully In-Office,No,Yes,No,No,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+874,25–34,Non-binary/Other,Healthcare,0–2 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+875,35–44,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+876,45–54,Female,Technology,6–10 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working from home,A mixed mode of working
+877,25–34,Male,Healthcare,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+878,25–34,Male,Education,20+ years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+879,35–44,Female,Finance,0–2 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+880,35–44,Female,Technology,6–10 years,Hybrid,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+881,25–34,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+882,35–44,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+883,55+,Male,Finance,11–20 years,Hybrid,No,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working from home
+884,35–44,Female,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+885,25–34,Male,Finance,20+ years,Fully In-Office,Yes,No,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+886,25–34,Male,Healthcare,0–2 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+887,25–34,Male,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working from home,A mixed mode of working
+888,18–24,Male,Other,11–20 years,Fully In-Office,No,Yes,No,No,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+889,25–34,Female,Technology,20+ years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working from home
+890,35–44,Male,Technology,3–5 years,Fully In-Office,No,No,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+891,25–34,Male,Technology,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working from home
+892,55+,Female,Other,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+893,25–34,Female,Finance,6–10 years,Hybrid,No,Yes,Yes,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+894,18–24,Male,Finance,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+895,45–54,Male,Other,20+ years,Fully In-Office,No,Yes,No,Yes,Yes,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+896,45–54,Male,Technology,11–20 years,Hybrid,No,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+897,25–34,Female,Other,3–5 years,Fully Remote,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+898,25–34,Male,Technology,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+899,25–34,Male,Retail/Hospitality,0–2 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+900,35–44,Male,Education,3–5 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+901,35–44,Female,Education,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+902,25–34,Male,Other,11–20 years,Hybrid,No,Yes,Yes,No,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+903,18–24,Female,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+904,35–44,Male,Other,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working in an office,Working in an office,Yes,Working in an office,Working in an office
+905,55+,Female,Education,6–10 years,Fully In-Office,No,No,No,No,No,Working from home,Working in an office,No,Working in an office,Working in an office
+906,35–44,Male,Retail/Hospitality,11–20 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working in an office
+907,35–44,Male,Other,11–20 years,Fully In-Office,Yes,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+908,18–24,Male,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+909,25–34,Female,Other,6–10 years,Fully In-Office,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+910,25–34,Female,Finance,11–20 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+911,45–54,Male,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,No,No,No,Working from home,Working in an office,Yes,Working from home,Working in an office
+912,45–54,Male,Technology,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+913,45–54,Female,Finance,11–20 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working in an office
+914,55+,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+915,55+,Male,Education,6–10 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+916,55+,Male,Technology,3–5 years,Fully In-Office,Yes,Yes,No,Yes,No,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+917,18–24,Female,Healthcare,6–10 years,Fully In-Office,No,No,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,A mixed mode of working
+918,18–24,Female,Other,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,Working from home
+919,25–34,Female,Technology,11–20 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+920,35–44,Female,Retail/Hospitality,6–10 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+921,18–24,Female,Other,3–5 years,Hybrid,Yes,No,No,Yes,No,Working from home,Working in an office,No,Working from home,Working in an office
+922,45–54,Male,Technology,11–20 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working from home
+923,35–44,Male,Technology,3–5 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working from home
+924,35–44,Male,Retail/Hospitality,20+ years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,No,Working in an office,Working from home
+925,25–34,Male,Technology,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+926,25–34,Male,Finance,6–10 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+927,25–34,Male,Retail/Hospitality,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working in an office,Working in an office
+928,45–54,Female,Finance,11–20 years,Hybrid,No,No,No,No,Yes,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+929,35–44,Male,Healthcare,0–2 years,Fully In-Office,No,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working in an office
+930,35–44,Male,Retail/Hospitality,20+ years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
+931,25–34,Female,Finance,6–10 years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,No,Working in an office,Working in an office
+932,25–34,Female,Technology,6–10 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+933,25–34,Female,Finance,6–10 years,Fully In-Office,No,No,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+934,45–54,Female,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+935,45–54,Female,Retail/Hospitality,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,No,Working in an office,A mixed mode of working
+936,25–34,Male,Education,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,Working in an office
+937,55+,Male,Healthcare,3–5 years,Hybrid,Yes,Yes,No,Yes,Yes,Working in an office,Working in an office,No,Working in an office,A mixed mode of working
+938,18–24,Female,Technology,11–20 years,Fully In-Office,No,Yes,No,Yes,Yes,Working from home,Working from home,No,Working in an office,Working in an office
+939,45–54,Male,Healthcare,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+940,18–24,Male,Technology,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+941,25–34,Male,Other,0–2 years,Fully In-Office,Yes,Yes,No,Yes,No,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+942,45–54,Male,Healthcare,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+943,25–34,Male,Government,3–5 years,Hybrid,No,Yes,Yes,No,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+944,25–34,Male,Technology,6–10 years,Fully In-Office,Yes,No,No,No,Yes,Working in an office,Working from home,No,Working in an office,A mixed mode of working
+945,25–34,Female,Healthcare,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+946,25–34,Female,Education,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+947,35–44,Male,Healthcare,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+948,45–54,Female,Government,0–2 years,Fully In-Office,No,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,Working in an office
+949,45–54,Male,Other,20+ years,Hybrid,No,No,No,Yes,No,Working from home,Working from home,No,Working from home,Working from home
+950,25–34,Female,Other,3–5 years,Fully In-Office,No,No,No,No,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+951,35–44,Female,Technology,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+952,25–34,Male,Government,20+ years,Fully In-Office,No,No,Yes,Yes,No,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+953,25–34,Female,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,No,Working from home,Working from home
+954,25–34,Non-binary/Other,Other,11–20 years,Fully In-Office,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working in an office,A mixed mode of working
+955,55+,Female,Finance,0–2 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+956,45–54,Non-binary/Other,Healthcare,6–10 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+957,45–54,Female,Technology,20+ years,Fully In-Office,No,No,No,No,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+958,35–44,Male,Technology,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+959,35–44,Female,Healthcare,0–2 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+960,35–44,Female,Other,6–10 years,Fully In-Office,No,No,No,No,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+961,35–44,Female,Government,3–5 years,Fully Remote,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+962,25–34,Male,Other,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+963,18–24,Female,Technology,11–20 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+964,18–24,Male,Finance,3–5 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+965,55+,Female,Healthcare,3–5 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,Working in an office
+966,35–44,Male,Finance,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,Working from home
+967,55+,Female,Healthcare,6–10 years,Hybrid,No,Yes,No,Yes,Yes,Working from home,Working from home,No,Working from home,Working in an office
+968,25–34,Female,Healthcare,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+969,35–44,Male,Finance,6–10 years,Fully Remote,Yes,Yes,No,Yes,Yes,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+970,25–34,Female,Technology,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working from home,Working from home,No,Working from home,A mixed mode of working
+971,25–34,Male,Education,20+ years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+972,18–24,Female,Retail/Hospitality,3–5 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+973,18–24,Female,Technology,6–10 years,Hybrid,No,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+974,55+,Male,Other,3–5 years,Fully In-Office,No,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+975,25–34,Male,Finance,0–2 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,A mixed mode of working
+976,35–44,Male,Government,3–5 years,Hybrid,Yes,Yes,Yes,Yes,No,Working in an office,Working from home,No,Working from home,A mixed mode of working
+977,35–44,Male,Retail/Hospitality,0–2 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+978,25–34,Female,Retail/Hospitality,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working in an office,Yes,Working in an office,Working from home
+979,35–44,Female,Retail/Hospitality,6–10 years,Fully In-Office,No,No,Yes,No,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+980,25–34,Male,Other,11–20 years,Fully In-Office,No,No,No,No,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+981,55+,Female,Finance,0–2 years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working from home,Yes,Working in an office,Working from home
+982,45–54,Male,Healthcare,6–10 years,Fully Remote,No,Yes,No,Yes,Yes,Working from home,Working in an office,No,Working in an office,Working in an office
+983,45–54,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,No,Yes,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+984,35–44,Male,Finance,3–5 years,Fully Remote,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working from home,Working from home
+985,25–34,Female,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working from home
+986,55+,Female,Healthcare,0–2 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working from home,A mixed mode of working
+987,25–34,Male,Technology,3–5 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,Working in an office
+988,18–24,Female,Finance,6–10 years,Fully Remote,Yes,No,Yes,Yes,Yes,Working from home,Working in an office,Yes,Working from home,A mixed mode of working
+989,25–34,Non-binary/Other,Technology,20+ years,Fully In-Office,Yes,No,Yes,Yes,No,Working in an office,Working from home,No,Working in an office,Working in an office
+990,45–54,Male,Finance,20+ years,Fully Remote,No,Yes,Yes,Yes,Yes,Working in an office,Working from home,Yes,Working from home,Working in an office
+991,35–44,Male,Government,20+ years,Fully Remote,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working from home,Working in an office
+992,45–54,Female,Government,6–10 years,Fully In-Office,Yes,Yes,No,Yes,Yes,Working from home,Working in an office,Yes,Working in an office,Working in an office
+993,45–54,Male,Healthcare,0–2 years,Fully In-Office,No,No,Yes,Yes,Yes,Working in an office,Working from home,No,Working in an office,Working in an office
+994,25–34,Male,Finance,3–5 years,Hybrid,Yes,Yes,No,Yes,No,Working from home,Working from home,Yes,Working in an office,Working in an office
+995,55+,Male,Finance,3–5 years,Hybrid,Yes,No,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+996,25–34,Female,Education,0–2 years,Fully Remote,Yes,Yes,Yes,Yes,No,Working from home,Working from home,Yes,Working in an office,Working from home
+997,35–44,Male,Retail/Hospitality,0–2 years,Fully Remote,Yes,Yes,Yes,No,No,Working from home,Working in an office,Yes,Working in an office,A mixed mode of working
+998,18–24,Male,Technology,6–10 years,Hybrid,Yes,Yes,Yes,Yes,Yes,Working from home,Working from home,Yes,Working in an office,A mixed mode of working
+999,55+,Female,Other,3–5 years,Hybrid,Yes,No,No,Yes,No,Working in an office,Working in an office,Yes,Working in an office,A mixed mode of working
+1000,25–34,Female,Technology,3–5 years,Hybrid,No,Yes,Yes,Yes,No,Working in an office,Working from home,Yes,Working from home,A mixed mode of working
