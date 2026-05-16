@@ -8,7 +8,7 @@ This project explores the impacts of working remotely versus working in an offic
 ## Features
 
 - Survey dataset with 1,000 responses and 16 variables
-- Comprehensive research report with embedded figures and tables
+- Comprehensive research report with detailed findings
 - Statistical analysis and cross-tabulations of survey responses
 - Data visualizations for each survey question
 - Insights and recommendations for hybrid work models
@@ -18,7 +18,6 @@ This project explores the impacts of working remotely versus working in an offic
 - Python 3.x
 - Jupyter Notebook
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
@@ -31,14 +30,11 @@ This project explores the impacts of working remotely versus working in an offic
 
 2. **Follow the notebook**: Execute the cells in the notebook to perform data analysis and visualization.
 
-
 ## File Structure
 
 - `The Impacts of Working Remotely and in an Office Survey code.ipynb`: Jupyter Notebook containing the full data analysis and visualizations.
 - `The Impacts of Working Remotely and in an Office Survey.csv`: CSV file with 1,000 survey responses and 16 columns.
-- `The Impacts of Working Remotely and in an Office.docx`: Word document containing the full research report with embedded figures and tables.
-- `The Impacts of Working Remotely and in an Office.pdf`: PDF version of the research report.
-- `Charts/`: Folder containing pre-exported chart images.
+- `The Impacts of Working Remotely and in an Office.pdf`: PDF report detailing the research study, analysis, and findings.
 
 ## Dataset Summary
 
