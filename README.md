@@ -1,5 +1,5 @@
 # The Impacts of Working Remotely and in an Office
-### A Survey-Based Analysis of Productivity, Health, and Work Preferences Among 1,000 Employees
+### A Survey of Productivity, Health, and Work Preferences Among 1,000 Employees
 
 ## Overview
 
